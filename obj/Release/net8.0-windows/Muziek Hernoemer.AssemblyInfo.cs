@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Muziek Hernoemer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+867791f0bc9b4c3591f4210933fa072d4b83e227")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96fedd027beed087553a07892bc0c6140220e74f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Muziek Hernoemer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Muziek Hernoemer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
