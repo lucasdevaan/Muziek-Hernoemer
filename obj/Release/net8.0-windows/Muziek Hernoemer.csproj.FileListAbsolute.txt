@@ -1,0 +1,36 @@
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\Muziek Hernoemer.exe
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\Muziek Hernoemer.deps.json
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\Muziek Hernoemer.runtimeconfig.json
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\Muziek Hernoemer.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\Muziek Hernoemer.pdb
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\TagLibSharp.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Muziek Hernoemer.csproj.AssemblyReference.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music_Renamer.Form1.resources
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Muziek Hernoemer.csproj.GenerateResource.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Muziek Hernoemer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Muziek Hernoemer.AssemblyInfoInputs.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Muziek Hernoemer.AssemblyInfo.cs
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Muziek Hernoemer.csproj.CoreCompileInputs.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Muziek H.5F1E81A0.Up2Date
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Muziek Hernoemer.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\refint\Muziek Hernoemer.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Muziek Hernoemer.pdb
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Muziek Hernoemer.genruntimeconfig.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\ref\Muziek Hernoemer.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\bin\Release\net8.0-windows\Muziek Hernoemer.exe
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\bin\Release\net8.0-windows\Muziek Hernoemer.deps.json
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\bin\Release\net8.0-windows\Muziek Hernoemer.runtimeconfig.json
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\bin\Release\net8.0-windows\Muziek Hernoemer.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\Muziek Hernoemer.csproj.AssemblyReference.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\Music_Renamer.Form1.resources
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\Muziek Hernoemer.csproj.GenerateResource.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\Muziek Hernoemer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\Muziek Hernoemer.AssemblyInfoInputs.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\Muziek Hernoemer.AssemblyInfo.cs
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\Muziek Hernoemer.csproj.CoreCompileInputs.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\Muziek Hernoemer.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\refint\Muziek Hernoemer.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\Muziek Hernoemer.genruntimeconfig.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\ref\Muziek Hernoemer.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\bin\Release\net8.0-windows\TagLibSharp.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Muziek Hernoemer\Muziek Hernoemer\obj\Release\net8.0-windows\Muziek H.5F1E81A0.Up2Date

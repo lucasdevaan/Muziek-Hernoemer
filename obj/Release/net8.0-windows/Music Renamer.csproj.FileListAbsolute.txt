@@ -1,0 +1,19 @@
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\Music Renamer.exe
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\Music Renamer.deps.json
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\Music Renamer.runtimeconfig.json
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\Music Renamer.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\Music Renamer.pdb
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\bin\Release\net8.0-windows\TagLibSharp.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music Renamer.csproj.AssemblyReference.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music_Renamer.Form1.resources
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music Renamer.csproj.GenerateResource.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music Renamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music Renamer.AssemblyInfoInputs.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music Renamer.AssemblyInfo.cs
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music Renamer.csproj.CoreCompileInputs.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music Re.0B3B4C43.Up2Date
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music Renamer.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\refint\Music Renamer.dll
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music Renamer.pdb
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\Music Renamer.genruntimeconfig.cache
+C:\Users\vaan5\Documents\_Lucas\snufjes\apps\Music Renamer\Music Renamer\obj\Release\net8.0-windows\ref\Music Renamer.dll
